@@ -1,0 +1,20 @@
+body {
+    background-color: #000;
+    text-align: center;
+}
+canvas {
+    width: 90vh;
+}
+#controls {
+    width: 100%;
+}
+input {
+    width: 30%;
+    background-color: #000;
+    color: #fff;
+}
+button {
+    width: 15%;
+    background-color: #000;
+    color: #fff;
+}
